@@ -1,7 +1,7 @@
 # Demand-Forecasting-using-Linear-Regression
 Problem Statement:
 
-In this programming assignment, the task is to build a multiple linear regression model to predict the demand for shared bikes, with a requirement to submit the solution in a Jupyter notebook.
+In this project, the task is to build a multiple linear regression model to predict the demand for shared bikes, with a requirement to submit the solution in a Jupyter notebook.
 
 Background:
 
